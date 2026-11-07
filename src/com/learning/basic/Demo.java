@@ -1,3 +1,5 @@
+package com.learning.basic;
+
 import java.util.Scanner;
 
 public class Demo {
